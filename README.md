@@ -13,7 +13,7 @@ Este é um projeto de aplicativo Android para a faculdade, desenvolvido para dem
 
 - **MainActivity.java**: Contém a lógica para tratar o clique no botão salvar, validar as entradas e exibir o `Toast` personalizado.
 - **activity_main.xml**: Layout principal do aplicativo, incluindo campos de texto para nome e preço do produto, um checkbox para produto importado e um botão salvar.
-- **custom_toast.xml**: Layout do `Toast` personalizado, que permite exibir mensagens no centro da tela com um estilo próprio.
+- **toast_customizado.xml**: Layout do `Toast` personalizado, que permite exibir mensagens no centro da tela com um estilo próprio.
 
 ## Requisitos
 
